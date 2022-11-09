@@ -1,0 +1,22 @@
+.history-item {
+  display: flex;
+  justify-content: space-between;
+}
+.history-leftItem {
+  display: flex;
+  align-items: center;
+}
+.logo-img {
+  width: 20px;
+  height: 20px;
+  margin: 0 15px 0 40px;
+}
+.domain-url {
+  margin: 0 0 0 15px;
+}
+.domain-title {
+  font-weight: 700;
+}
+.delete-img {
+  margin-right: 35px;
+}

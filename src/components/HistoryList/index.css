@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  background-color: #3367d6;
+  padding: 20px 50px;
+  justify-content: space-between;
+}
+.search-input {
+  width: 500px;
+  margin-right: 400px;
+  background-color: #2850a7;
+  border: 0.5px solid #ececec;
+  outline: none;
+  text-indent: 15px;
+}
+.searchBar {
+  display: flex;
+}
+.search-img {
+  background-color: #2850a7;
+  padding: 3px 10px;
+  border: 0.5px solid #ececec;
+}
+.history-List {
+  box-shadow: 0px 4px 16px 0px #bbc8d3;
+  margin: 25px;
+  padding: 15px;
+  border-radius: 10px;
+}
+.empty-page {
+  height: 70vh;
+  padding: 200px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+  font-family: monospace;
+}
